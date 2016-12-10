@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Data_Mahasiswa\10116199_IMAMMOZAFAR_ALGORITMA DAN PEMOGRAMAN_IF-5\ProjectProcedure\Procedure1.dp
+Name=Procedure1
+MainUnit=D:\Data_Mahasiswa\10116199_IMAMMOZAFAR_ALGORITMA DAN PEMOGRAMAN_IF-5\ProjectProcedure\Proc.pas
+UnitCount=1
+ResFiles=D:\Data_Mahasiswa\10116199_IMAMMOZAFAR_ALGORITMA DAN PEMOGRAMAN_IF-5\ProjectProcedure\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Data_Mahasiswa\10116199_IMAMMOZAFAR_ALGORITMA DAN PEMOGRAMAN_IF-5\ProjectProcedure\Proc.pas
+FileTime=1230261059

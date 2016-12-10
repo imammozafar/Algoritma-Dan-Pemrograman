@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Documents and Settings\All Users\Documents\Imam\INFORMATIKA\IMAMMOZAFAR_IF5\ProjectBarang.dp
+Name=ProjectBarang
+MainUnit=C:\Documents and Settings\All Users\Documents\Imam\INFORMATIKA\IMAMMOZAFAR_IF5\brang.pas
+UnitCount=1
+ResFiles=C:\Documents and Settings\All Users\Documents\Imam\INFORMATIKA\IMAMMOZAFAR_IF5\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Documents and Settings\All Users\Documents\Imam\INFORMATIKA\IMAMMOZAFAR_IF5\brang.pas
+FileTime=1233817676

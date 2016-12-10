@@ -1,0 +1,12 @@
+[Project]
+FileName=F:\tini_hitungharga\pembayaran.dp
+Name=pembayaran
+MainUnit=C:\Users\AleFreedom\Documents\kasir2\kasir3.pas
+UnitCount=1
+ResFiles=F:\tini_hitungharga\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=C:\Users\AleFreedom\Documents\kasir2\kasir3.pas
+FileTime=1229800239
